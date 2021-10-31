@@ -23,3 +23,11 @@ ARGS:
 ```
 
 As it just uses `git diff`, the diff viewer you have set in git is used. Additionally, you can simply pipe the output into files or other commands.
+
+## Installation
+
+Install with:
+
+```
+cargo install spirv-diff
+```
